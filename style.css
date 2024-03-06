@@ -1,0 +1,51 @@
+body {
+    text-align: center;
+    background-color: #2b2d42;
+    font-family: 'Montserrat', sans-serif;
+    color: #edf2f4;
+}
+
+h1 {
+    text-align: center;
+    font-family: 'Raleway', sans-serif;
+    font-size: 300%;
+    font-weight: 800;
+    margin: 5% auto;
+}
+
+.btns {
+    font-size: 150%;
+    text-align: center;
+    margin: 2% auto;
+}
+
+.btn-confirm, .btn-submit {
+    margin-top: 7%;
+}
+
+.radio-btns {
+    text-align: center;
+}
+
+.form-check {
+    margin: 0 5%;
+}
+
+.btn {
+    font-size: 100%;
+    padding: 1% 4%;
+}
+
+.form {
+    font-size: 100%;
+    text-align: left;
+    padding: 3% 30% 2%;
+}
+
+.status {
+    font-size: 150%;
+}
+
+footer {
+    padding-top: 5%;
+}
